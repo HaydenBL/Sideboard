@@ -7,5 +7,5 @@ Keeps track of when my sideloaded iOS apps expire, so I rebuild them before they
 
 ## Adding an app
 1. Add the App Group `group.se.haydenblai.sideload` to the app target.
-2. Add this repo as a package dependency (File → Add Package Dependencies, using the GitHub URL, branch `main`) and link `SideloadKit` to the app target.
+2. Add this repo as a package dependency (File → Add Package Dependencies, `https://github.com/HaydenBL/Sideboard`, branch `master`) and link `SideloadKit` to the app target.
 3. Call `SideloadReporter.report()` at launch.
