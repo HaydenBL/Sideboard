@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="wood" x1="512" y1="470" x2="512" y2="760" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#93603A"/>
+<stop offset="1" stop-color="#5D391E"/>
+</linearGradient>
+</defs>
+<rect x="214" y="742" width="40" height="88" rx="12" fill="#4A2D17"/>
+<rect x="770" y="742" width="40" height="88" rx="12" fill="#4A2D17"/>
+<rect x="176" y="470" width="672" height="290" rx="34" fill="url(#wood)"/>
+<rect x="140" y="430" width="744" height="58" rx="24" fill="#A8723F"/>
+<g stroke="#4A2D17" stroke-opacity="0.75" stroke-width="9">
+<rect x="204" y="512" width="301" height="222" rx="16"/>
+<rect x="519" y="512" width="301" height="222" rx="16"/>
+</g>
+<circle cx="478" cy="623" r="15" fill="#ECC77E"/>
+<circle cx="546" cy="623" r="15" fill="#ECC77E"/>
+</svg>
